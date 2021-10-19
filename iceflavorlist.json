@@ -1,4 +1,5 @@
 
+
 [{"char_id":1,"name":"Arun",
 
 "img":"https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/   cast_bb_700x1000_walter-white-lg.jpg",
@@ -90,4 +91,41 @@
    "phoneNumbers": "9878653478"
 
  },
+ {"char_id":11,"name":"veera",
+
+"img":"https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/   cast_bb_700x1000_walter-white-lg.jpg",
+ "nickname":"Heisenberg",
+  "gender": "male",
+   "age": 27,
+   "phoneNumbers": "9878653478"
+
+ },
+ {"char_id":12,"name":"David",
+
+"img":"https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/   cast_bb_700x1000_walter-white-lg.jpg",
+ "nickname":"Heisenberg",
+  "gender": "male",
+   "age": 23,
+   "phoneNumbers": "9878653478"
+
+ },
+ {"char_id":13,"name":"Raj ",
+
+"img":"https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/   cast_bb_700x1000_walter-white-lg.jpg",
+ "nickname":"Heisenberg",
+  "gender": "male",
+   "age": 25,
+   "phoneNumbers": "9878653478"
+
+ },
+
+{"char_id":14,"name":"veera ",
+
+"img":"https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/   cast_bb_700x1000_walter-white-lg.jpg",
+ "nickname":"veerachild",
+  "gender": "male",
+   "age": 25,
+   "phoneNumbers": "9878653478"
+
+ }
 ]
