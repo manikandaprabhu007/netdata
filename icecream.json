@@ -85,14 +85,10 @@
     "text": "Lemon Cream",
      " price": "75"
 }, 
-
-
-
-
-
-
-
-
-
+{
+    "char_id":17,
+    "text": "Lemon",
+     " price": "75"
+}, 
 
 ]
