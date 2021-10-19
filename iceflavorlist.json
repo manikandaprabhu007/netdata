@@ -1,91 +1,93 @@
-[{"char_id":1,"text":"vanilla",
+
+[{"char_id":1,"name":"Arun",
 
 "img":"https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/   cast_bb_700x1000_walter-white-lg.jpg",
- 
-  "price": "20",
-  
+ "nickname":"Heisenberg",
+  "gender": "male",
+   "age": 24,
+   "phoneNumbers": "9878653478"
 
  },
 
-{"char_id":2,"text": "Chocolate",
+{"char_id":2,"name":"kumar ",
 
 "img":"https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/   cast_bb_700x1000_walter-white-lg.jpg",
- 
-   "price": 30,
-  
+ "nickname":"Heisenberg",
+  "gender": "male",
+   "age": 22,
+   "phoneNumbers": "9878653478"
 
  },
- {"char_id":3,"text": "Coffee",
+ {"char_id":3,"name":"malini",
 
 "img":"https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/   cast_bb_700x1000_walter-white-lg.jpg",
- "price": 40,
+ "nickname":"Heisenberg",
+  "gender": "female",
+   "age": 25,
+   "phoneNumbers": "9878653478"
 
  },
- {"char_id":4,"text": "Strawberry",
+ {"char_id":4,"name":"mani",
 
 "img":"https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/   cast_bb_700x1000_walter-white-lg.jpg",
- "price": 35,
+ "nickname":"Heisenberg",
+  "gender": "male",
+   "age": 21,
+   "phoneNumbers": "9878653478"
 
  },
- {"char_id":5,"text": "Mint",
+ {"char_id":5,"name":"divya ",
 
 "img":"https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/   cast_bb_700x1000_walter-white-lg.jpg",
- "price": 50,
+ "nickname":"Heisenberg",
+  "gender": "female",
+   "age": 20,
+   "phoneNumbers": "9878653478"
 
  },
- {"char_id":6,"text": "Real Mango",
+ {"char_id":6,"name":"Bala ",
 
 "img":"https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/   cast_bb_700x1000_walter-white-lg.jpg",
- "price": 45,
+ "nickname":"Heisenberg",
+  "gender": "male",
+   "age": 28,
+   "phoneNumbers": "9878653478"
 
  },
- {"char_id":7,"text": "Swish Cake",
+ {"char_id":7,"name":"suresh ",
 
 "img":"https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/   cast_bb_700x1000_walter-white-lg.jpg",
- "price": 60,
+ "nickname":"Heisenberg",
+  "gender": "male",
+   "age": 28,
+   "phoneNumbers": "9878653478"
 
  },
- {"char_id":8,"text": "paanIce",
+ {"char_id":8,"name":"Arvinth ",
 
 "img":"https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/   cast_bb_700x1000_walter-white-lg.jpg",
- "price": 55,
+ "nickname":"Heisenberg",
+  "gender": "male",
+   "age": 28,
+   "phoneNumbers": "9878653478"
 
  },
- {"char_id":9, "text": "Cookie Cream",
+ {"char_id":9,"name":"Amir ",
 
 "img":"https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/   cast_bb_700x1000_walter-white-lg.jpg",
- "price": 65,
+ "nickname":"Heisenberg",
+  "gender": "male",
+   "age": 28,
+   "phoneNumbers": "9878653478"
 
  },
- {"char_id":10, "text": "Almon Shake",
+ {"char_id":10,"name":"Ganesh",
 
 "img":"https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/   cast_bb_700x1000_walter-white-lg.jpg",
- "price": 45,
+ "nickname":"Heisenberg",
+  "gender": "male",
+   "age": 30,
+   "phoneNumbers": "9878653478"
 
  },
- {"char_id":11, "text": "Red velved",
-
-"img":"https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/   cast_bb_700x1000_walter-white-lg.jpg",
- "price": 25,
-
- },
- {"char_id":12, "text": "Red velved",
-
-"img":"https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/   cast_bb_700x1000_walter-white-lg.jpg",
- "price": 65,
-
- },
- {"char_id":13, "text": "Red velved",
-
-"img":"https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/   cast_bb_700x1000_walter-white-lg.jpg",
- "price": 75,
-
- },
-
-{"char_id":14, "text": "Red velved",
-
-"img":"https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/   cast_bb_700x1000_walter-white-lg.jpg",
- "price": 45,
-
- }
 ]
