@@ -6,8 +6,8 @@
  "nickname":"Heisenberg",
   "gender": "male",
    "age": 24,
-   "text": "Almon Shake",
-     " price": "55",
+    "text": "Vanilla",
+    " price": "20",
    "phoneNumbers": "9878653478"
   
 
@@ -29,8 +29,8 @@
 "img":"https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/   cast_bb_700x1000_walter-white-lg.jpg",
  "nickname":"Heisenberg",
   "gender": "female",
-   "text": "Almon Shake",
-     " price": "55",
+    "text": "Coffee",
+    " price": "45",
    "age": 25,
    "phoneNumbers": "9878653478"
 
@@ -40,8 +40,8 @@
 "img":"https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/   cast_bb_700x1000_walter-white-lg.jpg",
  "nickname":"Heisenberg",
   "gender": "male",
-   "text": "Almon Shake",
-     " price": "55",
+    "text": "Strawberry",
+    " price": "30",
    "age": 21,
    "phoneNumbers": "9878653478"
 
@@ -51,8 +51,8 @@
 "img":"https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/   cast_bb_700x1000_walter-white-lg.jpg",
  "nickname":"Heisenberg",
   "gender": "female",
-   "text": "Almon Shake",
-     " price": "55",
+  "text": "Mint",
+     " price": "60",
    "age": 20,
    "phoneNumbers": "9878653478"
 
@@ -62,8 +62,8 @@
 "img":"https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/   cast_bb_700x1000_walter-white-lg.jpg",
  "nickname":"Heisenberg",
   "gender": "male",
-   "text": "Almon Shake",
-     " price": "55",
+   "text": "Real Mango",
+     " price": "25",
    "age": 28,
    "phoneNumbers": "9878653478"
 
@@ -73,8 +73,8 @@
 "img":"https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/   cast_bb_700x1000_walter-white-lg.jpg",
  "nickname":"Heisenberg",
   "gender": "male",
-   "text": "Almon Shake",
-     " price": "55",
+    "text": "Butter Scotch",
+     " price": "40",
    "age": 28,
    "phoneNumbers": "9878653478"
 
@@ -84,8 +84,9 @@
 "img":"https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/   cast_bb_700x1000_walter-white-lg.jpg",
  "nickname":"Heisenberg",
   "gender": "male",
-   "text": "Almon Shake",
-     " price": "55",
+  
+    "text": "Swish Cake",
+    " price": "50",
    "age": 28,
    "phoneNumbers": "9878653478"
 
@@ -95,8 +96,8 @@
 "img":"https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/   cast_bb_700x1000_walter-white-lg.jpg",
  "nickname":"Heisenberg",
   "gender": "male",
-   "text": "Almon Shake",
-     " price": "55",
+   "text": "paanIce",
+     " price": "70",
    "age": 28,
    "phoneNumbers": "9878653478"
 
@@ -106,8 +107,8 @@
 "img":"https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/   cast_bb_700x1000_walter-white-lg.jpg",
  "nickname":"Heisenberg",
   "gender": "male",
-   "text": "Almon Shake",
-     " price": "55",
+   "text": "paanIce",
+     " price": "70",
    "age": 30,
    "phoneNumbers": "9878653478"
 
@@ -118,8 +119,8 @@
  "nickname":"Heisenberg",
   "gender": "male",
    "age": 27,
-   "text": "Almon Shake",
-     " price": "55",
+   "text": "Cookie Cream",
+    " price": "90",
    "phoneNumbers": "9878653478"
 
  },
@@ -128,8 +129,8 @@
 "img":"https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/   cast_bb_700x1000_walter-white-lg.jpg",
  "nickname":"Heisenberg",
   "gender": "male",
-   "text": "Almon Shake",
-     " price": "55",
+   "text": "Red velved",
+     " price": 65",
    "age": 23,
    "phoneNumbers": "9878653478"
 
@@ -139,7 +140,7 @@
 "img":"https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/   cast_bb_700x1000_walter-white-lg.jpg",
  "nickname":"Heisenberg",
   "gender": "male",
-   "text": "Almon Shake",
+   "text": "chacored",
      " price": "55",
    "age": 25,
    "phoneNumbers": "9878653478"
@@ -151,7 +152,7 @@
 "img":"https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/   cast_bb_700x1000_walter-white-lg.jpg",
  "nickname":"veerachild",
   "gender": "male",
-  "text": "Almon Shake",
+  "text": "Badhammix",
      " price": "55",
    "age": 25,
    "phoneNumbers": "9878653478"
