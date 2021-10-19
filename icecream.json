@@ -5,7 +5,9 @@
  "nickname":"Heisenberg",
   "gender": "male",
    "age": 24,
-   "phoneNumbers": "9878653478"
+   "phoneNumbers": "9878653478",
+  "text": "Vanilla",
+    " price": "20"
 
  },
 
@@ -15,7 +17,9 @@
  "nickname":"Heisenberg",
   "gender": "male",
    "age": 22,
-   "phoneNumbers": "9878653478"
+   "phoneNumbers": "9878653478",
+ "text": "Chocolate",
+     " price": "50"
 
  },
  {"char_id":3,"name":"malini",
@@ -24,7 +28,9 @@
  "nickname":"Heisenberg",
   "gender": "female",
    "age": 25,
-   "phoneNumbers": "9878653478"
+   "phoneNumbers": "9878653478",
+  "text": "Chocolate",
+     " price": "50"
 
  },
  {"char_id":4,"name":"mani",
@@ -33,7 +39,9 @@
  "nickname":"Heisenberg",
   "gender": "male",
    "age": 21,
-   "phoneNumbers": "9878653478"
+   "phoneNumbers": "9878653478",
+  "text": "Chocolate",
+     " price": "50"
 
  },
  {"char_id":5,"name":"divya ",
@@ -42,7 +50,9 @@
  "nickname":"Heisenberg",
   "gender": "female",
    "age": 20,
-   "phoneNumbers": "9878653478"
+   "phoneNumbers": "9878653478",
+  "text": "Chocolate",
+     " price": "50"
 
  },
  {"char_id":6,"name":"Bala ",
@@ -51,7 +61,9 @@
  "nickname":"Heisenberg",
   "gender": "male",
    "age": 28,
-   "phoneNumbers": "9878653478"
+   "phoneNumbers": "9878653478",
+  "text": "Chocolate",
+     " price": "50"
 
  },
  {"char_id":7,"name":"suresh ",
@@ -60,7 +72,9 @@
  "nickname":"Heisenberg",
   "gender": "male",
    "age": 28,
-   "phoneNumbers": "9878653478"
+   "phoneNumbers": "9878653478",
+  "text": "Chocolate",
+     " price": "50"
 
  },
  {"char_id":8,"name":"Arvinth ",
@@ -69,7 +83,9 @@
  "nickname":"Heisenberg",
   "gender": "male",
    "age": 28,
-   "phoneNumbers": "9878653478"
+   "phoneNumbers": "9878653478",
+  "text": "Chocolate",
+     " price": "50"
 
  },
  {"char_id":9,"name":"Amir ",
@@ -78,7 +94,9 @@
  "nickname":"Heisenberg",
   "gender": "male",
    "age": 28,
-   "phoneNumbers": "9878653478"
+   "phoneNumbers": "9878653478",
+  "text": "Chocolate",
+     " price": "50"
 
  },
  {"char_id":10,"name":"Ganesh",
@@ -87,7 +105,9 @@
  "nickname":"Heisenberg",
   "gender": "male",
    "age": 30,
-   "phoneNumbers": "9878653478"
+   "phoneNumbers": "9878653478",
+  "text": "Chocolate",
+     " price": "50"
 
  },
  {"char_id":11,"name":"veera",
@@ -96,7 +116,9 @@
  "nickname":"Heisenberg",
   "gender": "male",
    "age": 27,
-   "phoneNumbers": "9878653478"
+   "phoneNumbers": "9878653478",
+  "text": "Chocolate",
+     " price": "50"
 
  },
  {"char_id":12,"name":"David",
@@ -105,7 +127,9 @@
  "nickname":"Heisenberg",
   "gender": "male",
    "age": 23,
-   "phoneNumbers": "9878653478"
+   "phoneNumbers": "9878653478",
+  "text": "Chocolate",
+     " price": "50"
 
  },
  {"char_id":13,"name":"Raj ",
@@ -114,7 +138,9 @@
  "nickname":"Heisenberg",
   "gender": "male",
    "age": 25,
-   "phoneNumbers": "9878653478"
+   "phoneNumbers": "9878653478",
+  "text": "Chocolate",
+     " price": "50"
 
  },
 
@@ -124,7 +150,9 @@
  "nickname":"veerachild",
   "gender": "male",
    "age": 25,
-   "phoneNumbers": "9878653478"
+   "phoneNumbers": "9878653478",
+ "text": "Chocolate",
+     " price": "50"
 
  },
  {"char_id":15,"name":"veera ",
@@ -133,7 +161,9 @@
  "nickname":"veerachild",
   "gender": "male",
    "age": 25,
-   "phoneNumbers": "9878653478"
+   "phoneNumbers": "9878653478",
+  "text": "Chocolate",
+     " price": "50"
 
  }
 ]
